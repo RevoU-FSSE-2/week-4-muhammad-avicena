@@ -45,7 +45,7 @@ NB*:
 </br>
 <strong>*FURTHER EXPLANATION ABOUT HOW TO DEPLOY WITH CUSTOM DOMAIN IS COMING SOON !</strong>
 
-The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https://avicena.site).
+The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https://avicena.site) or [this link](https://www.avicena.site).
 
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
