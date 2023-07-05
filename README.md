@@ -42,7 +42,9 @@ NB*:
 ## DEPLOYMENT ⚙️
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
 
-The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https:/avicena.site).
+# Further Explanation is coming soon !
+
+The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https://avicena.site).
 
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
