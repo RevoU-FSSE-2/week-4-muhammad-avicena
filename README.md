@@ -39,10 +39,11 @@ Interested to have collaboration ? Find me on:
 NB*: 
 - I don't use any CSS Framework or other library to get any component, only font & icon that have been used.
 
-## DEPLOYMENT ⚙️
+## DEPLOYMENT  ⚙️
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
-
-# Further Explanation is coming soon !
+</br>
+</br>
+<strong>*FURTHER EXPLANATION ABOUT HOW TO DEPLOY WITH CUSTOM DOMAIN IS COMING SOON !</strong>
 
 The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https://avicena.site).
 
