@@ -36,9 +36,6 @@ Interested to have collaboration ? Find me on:
   - Icon
   - Image
 
-NB*: 
-- I don't use any CSS Framework or other library to get any component, only font & icon that have been used.
-
 ## DEPLOYMENT  ⚙️
 [![Netlify Status](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
 </br>
