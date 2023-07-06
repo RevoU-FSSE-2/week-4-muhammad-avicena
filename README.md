@@ -37,10 +37,22 @@ Interested to have collaboration ? Find me on:
   - Image
 
 ## DEPLOYMENT  ⚙️
-[![Netlify Status](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
-</br>
-</br>
-<strong>*FURTHER EXPLANATION ABOUT HOW TO DEPLOY WITH CUSTOM DOMAIN IS COMING SOON !</strong>
+Deployment status : <br/>
+[![Netlify Status Production](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
+
+### Connect your account to Vercel !
+
+The first step to deploy in Vercel is creating a new account or use existing account. As a beginner progammer, I would prefer using GitHub account instead.
+
+![Alt text](img/login.png)
+
+After you successfully login, you will redirect to dashboard of Vercel app. You will start to 
+
+### Auto Deploy with Vercel !
+
+One of the benefit using your GitHub account connected to Vercel is that you don't have to worry about re-deploying your project manually, once there are changes that have been pushed in your repository, it will automatically re-deployed by Netlify within second.
+
+![Alt text](img/re-deploy.png)
 
 The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https://avicena.site) or [this link](https://www.avicena.site).
 
