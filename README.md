@@ -69,8 +69,8 @@ You're on the final step to bringing live your project with custom domain. Go to
 
 ```
 Type  Value
-NS   andronicus.ns.cloudflare.com
-NS   paislee.ns.cloudflare.com
+NS    andronicus.ns.cloudflare.com
+NS    paislee.ns.cloudflare.com
 ```
 Copy these nameserver and jump into dashboard overview of NiagaHoster. You should replace it with NameServer of CloudFire.
 
@@ -89,10 +89,15 @@ CNAME www     avicena-week4.netlify.com
 
 Final step, go to Dashboard Cloudfire -> DNS Records -> Add record domain -> set them accordingly.
 
-Done ! You should wait maximum 1x24 hours to let the NiagaHoster and Cloudfire set up, it could be faster or slower depending on the provider internet that you're using.
-
 ![Alt text](img/5.png)
+
+
+### 5. Congratulations, You're done !
+
+You should wait within 1x24 hours to let the NiagaHoster and Cloudfire setting up the DNS, it could be faster or slower depending on the provider internet that you're using.
 
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
 Happy browsing!
+
+
