@@ -71,8 +71,8 @@ You're on the final step to bringing live your project with custom domain. Go to
 
 ```
 Type  Value
-NS  andronicus.ns.cloudflare.com
-NS  paislee.ns.cloudflare.com
+NS   andronicus.ns.cloudflare.com
+NS   paislee.ns.cloudflare.com
 ```
 Copy these nameserver and jump into dashboard overview of NiagaHoster. You should replace it with NameServer of CloudFire.
 
