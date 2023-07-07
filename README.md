@@ -1,5 +1,4 @@
-![Header](https://github.com/RevoU-FSSE-2/week-2-muhammad-avicena/assets/49929404/a91358d9-539e-4477-99de-f61e630e9c3d)
-
+[![readme_header](https://github.com/muhammad-avicena/profile/assets/49929404/b7b89034-8e25-4f25-a1a2-5665aa66448c)](https://avicena.dev/)
 
 <h1 align="left">Fancy to see you here ! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
@@ -27,6 +26,8 @@ Interested to have collaboration ? Find me on:
   - Contact section
     - Form 
 - Footer
+
+![Header](https://github.com/RevoU-FSSE-2/week-2-muhammad-avicena/assets/49929404/a91358d9-539e-4477-99de-f61e630e9c3d)
 
 ## INGREDIENTS I USE 📜
 - HTML
