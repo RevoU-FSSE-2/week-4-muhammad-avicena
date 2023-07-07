@@ -46,9 +46,7 @@ The project has been successfully deployed using Netlify. You can access the pro
 
 The first step to deploy in Netlify is creating a new account or use existing account. As a beginner progammer, I would prefer using GitHub account instead.
 
-After you successfully login, you will be redirected to dashboard of Netlify app. In this scenario, you will need to import your existing project from github to netlify. 
-
-- Add new site -> Import existing project -> Connect via GitHub 
+After you successfully login, you will be redirected to dashboard of Netlify app. In this scenario, you will need to import your existing project from github to netlify. Add new site -> Import existing project -> Connect via GitHub 
 
 ![Alt text](img/2.png)
 ### 2. Auto Deploy with Netlify !
