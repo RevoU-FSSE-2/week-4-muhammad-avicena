@@ -37,24 +37,63 @@ Interested to have collaboration ? Find me on:
   - Image
 
 ## DEPLOYMENT  ⚙️
-Deployment status : <br/>
-[![Netlify Status Production](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
-
-### Connect your account to Vercel !
-
-The first step to deploy in Vercel is creating a new account or use existing account. As a beginner progammer, I would prefer using GitHub account instead.
-
-![Alt text](img/login.png)
-
-After you successfully login, you will redirect to dashboard of Vercel app. You will start to 
-
-### Auto Deploy with Vercel !
-
-One of the benefit using your GitHub account connected to Vercel is that you don't have to worry about re-deploying your project manually, once there are changes that have been pushed in your repository, it will automatically re-deployed by Netlify within second.
-
-![Alt text](img/re-deploy.png)
 
 The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://avicena.site](https://avicena.site) or [this link](https://www.avicena.site).
+### Deployment status : 
+[![Netlify Status Production](https://api.netlify.com/api/v1/badges/25b51f31-5c41-44f4-84b3-4b1870f47e44/deploy-status)](https://app.netlify.com/sites/avicena-week2/deploys)
+
+### 1. Connect your account to Netlify !
+
+The first step to deploy in Netlify is creating a new account or use existing account. As a beginner progammer, I would prefer using GitHub account instead.
+
+After you successfully login, you will be redirected to dashboard of Netlify app. In this scenario, you will need to import your existing project from github to netlify. 
+
+- Add new site -> Import existing project -> Connect via GitHub 
+
+![Alt text](img/2.png)
+### 2. Auto Deploy with Netlify !
+
+One of the benefit using your GitHub account connected to Netlify is that you don't have to worry about re-deploying your project manually, once there are changes that have been pushed in your repository, it will automatically re-deployed by Netlify within second.
+
+![Alt text](img/3.png)
+
+### 3. Domain Registrar with NiagaHoster & Cloudfire !
+
+Go to [https://niagahoster.co.id](https://niagahoster.co.id) and log in or create a new account. Check available domain that you wanted and make it yours.
+
+After that, go to [https://dash.cloudflare.com/](https://dash.cloudflare.com/) and log in or create a new account. You will be redirected to dashboard, add the domain that you have bought previously.
+
+![Alt text](img/4.png)
+
+### 4. Modify your project with favorite customize domain !
+
+You're on the final step to bringing live your project with custom domain. Go to dashboard Cloudfire -> DNS Records -> CloudFire NameServer. You will see the information of Nameserver that is given to you.
+
+```
+Type  Value
+NS	  andronicus.ns.cloudflare.com
+NS	  paislee.ns.cloudflare.com
+```
+Copy these nameserver and jump into dashboard overview of NiagaHoster. You should replace it with NameServer of CloudFire.
+
+After that, go to Netlify Dashboard -> open your project -> Custom domain -> Add domain that you have set previously. In thise case, you will see they're awaiting for external DNS. You will get some information such as IPv4 and domain name that you should input it to CloudFire.
+
+For primary domain :
+```
+Type  Value   Content Name
+A     @       75.2.60.5
+```
+For subdomain :
+```
+Type  Value   Content Name
+CNAME www     avicena-week4.netlify.com
+```
+
+Final step, go to Dashboard Cloudfire -> DNS Records -> Add record domain -> set them accordingly.
+
+Done ! You should wait maximum 1x24 hours to let the NiagaHoster and Cloudfire set up, it could be faster or slower depending on the provider internet that you're using.
+
+![Alt text](img/5.png)
 
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
